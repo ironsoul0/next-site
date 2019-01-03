@@ -189,7 +189,7 @@ export default withPure(() => (
               <ZEITLogo />
             </a>
           </Link>
-          <div> Copyright © 2018 ZEIT, Inc. All rights reserved.</div>
+          <div> Copyright © 2019 ZEIT, Inc. All rights reserved.</div>
         </div>
       </footer>
     </Container>
